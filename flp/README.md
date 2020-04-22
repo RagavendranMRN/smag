@@ -1,4 +1,4 @@
-# FLP module
+# FLP module - TAG
 
 An SAP Fiori launchpad site is one of the site templates offered by SAP Cloud Platform Portal. A launchpad site displays a home page with tiles and links representing business applications that an end user can launch.
 
