@@ -14,12 +14,10 @@
 				"i18n": "i18n/defaultCatalogId.properties"
 			},
 			"payload": {
-				"viz": [
-					{
-						"id": "smarttag.smarttag",
-						"vizId": "SmugOrder-Display"
-					}
-				]
+				"viz": [{
+					"id": "smarttagsmarttag",
+					"vizId": "SmugOrder-Display"
+				}]
 			}
 		}],
 		"groups": [{
@@ -31,11 +29,11 @@
 				"i18n": "i18n/defaultGroupId.properties"
 			},
 			"payload": {
-				"viz": [
-					{	"id": "title1",
-						"appId": "smarttag.smarttag",
-						"vizId": "SmugOrder-Display"
-					}]
+				"viz": [{
+					"id": "title1",
+					"appId": "smarttagsmarttag",
+					"vizId": "SmugOrder-Display"
+				}]
 			}
 		}],
 		"sites": [{
