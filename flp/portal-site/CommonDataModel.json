@@ -15,7 +15,7 @@
 			},
 			"payload": {
 				"viz": [{
-					"id": "smarttagsmarttag",
+					"id": "smarttag2",
 					"vizId": "SmugOrder-Display"
 				}]
 			}
@@ -30,9 +30,9 @@
 			},
 			"payload": {
 				"viz": [{
-					"id": "title1",
-					"appId": "smarttagsmarttag",
-					"vizId": "SmugOrder-Display"
+					"id": "smarttag2",
+					"appId": "smarttag2",
+					"vizId": "SmartTag-Display"
 				}]
 			}
 		}],
